@@ -1,0 +1,3 @@
+vault/* filter=encrypt diff=encrypt
+[merge]
+    renormalize=true
